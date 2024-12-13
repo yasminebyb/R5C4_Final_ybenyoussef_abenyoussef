@@ -1,0 +1,83 @@
+/* Style général de la page */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFF5F7; /* Fond rose pâle élégant */
+    color: #4B0082; /* Texte violet foncé */
+    margin: 0;
+    padding: 20px;
+    line-height: 1.8; /* Lisibilité améliorée */
+  }
+  
+  /* Style pour le titre */
+  h1 {
+    font-size: 2.5rem;
+    color: #D87093; /* Rose pastel élégant */
+    text-align: center;
+    margin-bottom: 30px;
+    text-transform: uppercase; /* Apparence professionnelle */
+    border-bottom: 3px solid #FF69B4; /* Ligne girly en dessous */
+    display: inline-block;
+    padding-bottom: 10px;
+    letter-spacing: 2px; /* Espacement pour structure */
+  }
+  
+  /* Conteneur des boutons de navigation */
+  div:first-of-type {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Style des boutons */
+  button {
+    background-color: #FF69B4; /* Rose vif */
+    color: #FFF; /* Texte blanc */
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 0 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  button:hover {
+    background-color: #D87093; /* Rose pastel au survol */
+    transform: scale(1.05); /* Effet de zoom léger */
+  }
+  
+  button:disabled {
+    background-color: #FFC0CB; /* Rose clair pour boutons désactivés */
+    cursor: not-allowed;
+    opacity: 0.6;
+  }
+  
+  /* Style pour chaque élément de recherche */
+  div > div {
+    background-color: #F8F0FF; /* Fond doux avec une teinte lavande */
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre subtile */
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  
+  div > div:hover {
+    transform: translateY(-5px); /* Légère élévation au survol */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  /* Style pour les paragraphes */
+  p {
+    font-size: 1.1rem;
+    color: #4B0082; /* Texte violet élégant */
+    line-height: 1.6;
+  }
+  
+  p br {
+    line-height: 1.5;
+  }
+  
+
+  

@@ -1,0 +1,50 @@
+/* Style général de la page */
+body {
+  font-family: 'Roboto', sans-serif; /* Police moderne et professionnelle */
+  background-color: #FDF5E6; /* Fond doux (Blanc cassé) */
+  color: #4B0082; /* Texte violet élégant */
+  margin: 0;
+  padding: 20px;
+  line-height: 1.8; /* Meilleure lisibilité */
+}
+
+/* Style pour le titre */
+h1 {
+  font-size: 2.5rem;
+  color: #D87093; /* Rose pastel élégant */
+  text-align: center;
+  margin-bottom: 20px;
+  text-transform: uppercase; /* Pour un style professionnel */
+  letter-spacing: 2px; /* Espacement des lettres pour aérer */
+  border-bottom: 3px solid #FF69B4; /* Ligne girly en dessous */
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+/* Style pour le paragraphe */
+p {
+  font-size: 1.1rem;
+  color: #4B0082; /* Violet foncé professionnel */
+  background-color: #F8F0FF; /* Fond doux avec un léger rose/lavande */
+  padding: 20px;
+  border-left: 5px solid #FF69B4; /* Bordure rose pro */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ombre pour profondeur */
+  margin: 20px auto;
+  max-width: 800px; /* Limite pour une bonne lisibilité */
+  line-height: 1.8;
+}
+
+/* Liens (si nécessaire pour navigation) */
+a {
+  color: #FF69B4;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
+}
+
+a:hover {
+  color: #D87093; /* Couleur pastel pour hover */
+}
+
+

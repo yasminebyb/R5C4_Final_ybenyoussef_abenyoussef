@@ -1,8 +1,6 @@
 # R5C4_Final_ybenyoussef_abenyoussef
 Examen Final R5C4 - 13/12/2024
 
-# R5C4 - Examen Final
-
 Ce projet consiste en la mise en place d'une application web pour visualiser et analyser des algorithmes de recherche de chemin.
 
 ## Description

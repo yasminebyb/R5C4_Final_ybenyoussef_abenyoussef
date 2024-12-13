@@ -104,8 +104,3 @@ Le projet utilise des données collectées lors de recherches de chemins dans un
 
 ## Auteur
 Projet réalisé dans le cadre de l'examen final du module R5C4.
-
----
-
-Bonne chance pour la réalisation de ce projet !
-
